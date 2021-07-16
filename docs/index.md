@@ -12,14 +12,13 @@ Senior at Brigham Young University Idaho pursuing Bachelor's of Science in Data 
 | <a href="https://github.com/Jayjayswizzle">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
 ## Education
 
 `2018-2021`
 __Brigham Young University Idaho__, Rexburg, ID
 
 - 3.79 GPA
+- Data Science Major
 - Minor in Statistics and Business Analytics
 - Member of the Data Science Society
 
@@ -46,7 +45,10 @@ __WesTech Automating Report__
 ## Service and Work History
 
 `2016-2018`
-__Official Representative__, ASPERSUD
+__Official Representative__, Asociacion Peruana de la Iglesia de Jesucristo de los Santos de los Ultimos Dias (ASPERSUD)
+
+- Worked with the nonprofit religious orginaztion to provide servicial needs to the people of Peru
+- Created plans to teach people, increase outreach, and leadership trainings
 
 
 `2017-2018`
